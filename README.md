@@ -22,3 +22,20 @@ low cost!
 Sounds Complex??
 
 (Don't worry) We will understand each of these as we go further
+
+# Scalability 
+system is handling 1000 transactions per second. Load is expected to
+
+increase 10 times in the next month
+
+> Can we handle a growth in users, traffic, or data size without any drop in performance?
+
+Does ability to serve more growth increase proportionally with resources?
+
+Ability to adapt to changes in demand (users, data)
+
+What are the options that can be considered?
+
+Deploy to a bigger instance with bigger CPU and more memory
+
+Increase the number of application instances and setup a load balancer
