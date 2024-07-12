@@ -56,3 +56,6 @@ Network Load Balancers are Layer 4 load balancers that can handle TCP, UDP, or o
 
 image:
 ![](https://cloud.google.com/static/load-balancing/images/ilb-l7-tiers.svg)
+
+## connection draining 
+Connection draining is a process that ensures that existing, in-progress requests are given time to complete when a VM is removed from an instance group or when an endpoint is removed from network endpoint groups
