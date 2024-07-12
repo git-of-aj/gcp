@@ -34,3 +34,20 @@ Routes define paths for packets leaving instances (egress traffic) i.e going out
 - Regional network firewall policies: Attched to VPC : can explicitly deny or allow connections, or go to the next level of the hierarchy.
 - These policies contain rules that can explicitly deny or allow connections, or go to the next level of the hierarchy.
 ![](https://cloud.google.com/static/firewall/images/firewall-policies/hfw3-2.svg)
+## load balancer 
+> Layer 4-based load balancing to direct traffic based on data from network and transport layer protocols such as TCP, UDP, ESP, GRE, ICMP, and ICMPv6 .
+> Use Layer 7-based load balancing to add request routing decisions based on attributes, such as the HTTP header and the uniform resource identifier
+
+cloud Armor - Ddos 
+
+## ALB 
+- Application Load Balancers are proxy-based Layer 7 load balancers
+- Backend : GCE, GKE, ext endpoint
+- [external vs Internal](https://cloud.google.com/load-balancing/docs/load-balancing-overview#application-lb)
+
+### NLB
+Network Load Balancers are Layer 4 load balancers that can handle TCP, UDP, or other IP protocol traffic. These load balancers are available as either proxy load balancers or passthrough load balancers
+
+**proxy** : modifies the traffic passing through it
+- **pass through** : traffic router
+✓ does round robin etc 
