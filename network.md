@@ -51,3 +51,5 @@ Network Load Balancers are Layer 4 load balancers that can handle TCP, UDP, or o
 **proxy** : modifies the traffic passing through it
 - **pass through** : traffic router
 ✓ does round robin etc 
+
+[**all load balancer together**](https://cloud.google.com/load-balancing/docs/application-load-balancer#three-tier_web_services)
