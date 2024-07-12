@@ -53,3 +53,6 @@ Network Load Balancers are Layer 4 load balancers that can handle TCP, UDP, or o
 ✓ does round robin etc 
 
 [**all load balancer together**](https://cloud.google.com/load-balancing/docs/application-load-balancer#three-tier_web_services)
+
+image:
+![](https://cloud.google.com/static/load-balancing/images/ilb-l7-tiers.svg)
