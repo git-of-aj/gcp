@@ -1,3 +1,5 @@
+- all monitoring services: https://cloud.google.com/products/operations?hl=en
+
 Yes, in Google Cloud Platform (GCP), you can indeed use the Ops Agent in Cloud Monitoring to achieve similar benefits to what Cloud Trace and Profiler offer, but each tool serves specific purposes and has unique use cases based on their capabilities:
 
 ### Cloud Trace:
