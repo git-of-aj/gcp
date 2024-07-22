@@ -1,3 +1,7 @@
+# Day1
+- start here : https://cloud.google.com/docs/overview
+- IAM starts : https://cloud.google.com/docs/authentication
+
 # ACE vs PCA 
 Focused on tasks that Cloud Engineers perform in day to day job!
 
@@ -39,3 +43,4 @@ What are the options that can be considered?
 Deploy to a bigger instance with bigger CPU and more memory
 
 Increase the number of application instances and setup a load balancer
+
