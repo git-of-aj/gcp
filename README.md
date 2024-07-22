@@ -1,6 +1,11 @@
-# Day1
+# Day1 - [GCP WAF](https://cloud.google.com/architecture/framework/system-design)
 - start here : https://cloud.google.com/docs/overview
 - IAM starts : https://cloud.google.com/docs/authentication
+--------
+*WAF*
+- region : https://cloud.google.com/architecture/framework/system-design/geographic-zones-regions
+- projects,hierachy: https://cloud.google.com/architecture/framework/system-design/resource-management
+- network design: https://cloud.google.com/architecture/framework/system-design/networking
 
 # ACE vs PCA 
 Focused on tasks that Cloud Engineers perform in day to day job!
