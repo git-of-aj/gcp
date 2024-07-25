@@ -1,3 +1,14 @@
+
+Here are some one-liners to help you decide between Bigtable and Datastore in Google Cloud Platform (GCP) without overlap:
+
+- **Bigtable:** Use Bigtable when you need to handle high-throughput and low-latency workloads for analytical and time-series data at scale.
+
+- **Datastore:** Use Datastore for managing structured data with support for ACID transactions and strong consistency, ideal for web and mobile applications with hierarchical data models.
+- 
+- **Spanner:** Use Spanner when you need a globally distributed, strongly consistent relational database with high availability and horizontal scalability for mission-critical applications.
+
+- **Datastore:** Use Datastore for applications that require a highly scalable NoSQL database with automatic sharding and hierarchical data storage, suitable for semi-structured data and ACID transactions at the entity level.
+  
 big table - https://www.zuar.com/blog/what-is-google-bigtable/
 
 
