@@ -1,3 +1,6 @@
+big table - https://www.zuar.com/blog/what-is-google-bigtable/
+
+
 # Day1 - [GCP WAF](https://cloud.google.com/architecture/framework/system-design)
 - start here : https://cloud.google.com/docs/overview
 - IAM starts : https://cloud.google.com/docs/authentication
